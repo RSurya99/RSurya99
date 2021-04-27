@@ -20,7 +20,7 @@ My Name is Rafli Surya Pratama, 17. From Bandung, Indonesia, Currently Studying 
 
 ## My Most Used Languages
 
-[![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsurya99&theme=radical")](https://github.com/rsurya99) 
+[![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=faldyif&layout=compact&hide=html&theme=radical")](https://github.com/rsurya99) 
 
 <!-- 
 [![rsurya99's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rsurya99)](https://wakatime.com/@rsurya99)
