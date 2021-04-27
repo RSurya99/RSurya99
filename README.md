@@ -14,7 +14,7 @@ My Name is Rafli Surya Pratama, 17. From Bandung, Indonesia, Currently Studying 
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about anything, I will help you as best I can
+- 💬 Ask me about anything, I will help you as best as I can
 
 - 📫 How to reach me **rafliazz679@gmail.com**
 
