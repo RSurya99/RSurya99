@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Rafli Surya Pratama, 17. From Bandung, Indonesia, Currently Studying at SMK Cipta Skill Bandung.
+My Name is Rafli Surya Pratama, 17. From Bandung, Indonesia, currently majoring in Informatics Engineering at SMK Cipta Skill Bandung.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsurya99" alt="rsurya99" /> </p>
 
