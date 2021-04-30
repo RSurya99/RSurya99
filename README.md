@@ -10,7 +10,7 @@ My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia, currently major
 
 ## Current Activity
 
-- 💻 I'm currently working on [aplikasispp](https://github.com/RSurya99/aplikasi-spp) (private repo)
+- 💻 I'm currently working on Open Source Project
 
 - 🌱 I’m currently learning **Javascript**
 
