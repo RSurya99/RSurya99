@@ -18,9 +18,6 @@ My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia, currently major
 
 - 📫 How to reach me **rafliazz679@gmail.com**
 
-## My Most Used Languages
+## Wakatime
 
-[![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsurya99&layout=compact&hide=html&theme=tokyonight)](https://github.com/rsurya99) 
-
-
-<!-- [![rsurya99's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rsurya99&theme=tokyonight&layout=compact)](https://wakatime.com/@rsurya99) -->
+[![rsurya99's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rsurya99&theme=tokyonight&layout=compact)](https://wakatime.com/@rsurya99)
