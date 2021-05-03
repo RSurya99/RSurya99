@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia, currently majoring in Informatics Engineering at SMK Cipta Skill Bandung.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsurya99" alt="rsurya99" /> </p>
+My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia, currently majoring in Informatics Engineering at SMK Cipta Skill Bandung
 
 ## Github Stats
 
@@ -10,7 +8,6 @@ My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia, currently major
 
 ## Current Activity
 
-- 💻 I'm currently working on Open Source Project
 
 - 🌱 I’m currently learning **Javascript**
 
