@@ -9,7 +9,7 @@ My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia, currently major
 ## Current Activity
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about anything, I will help you as best as I can
 
