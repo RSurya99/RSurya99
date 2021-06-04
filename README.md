@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia, currently majoring in Informatics Engineering at SMK Cipta Skill Bandung
+My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia.
 
 ## Github Stats
 
