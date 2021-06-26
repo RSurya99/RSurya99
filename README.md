@@ -2,10 +2,6 @@
 
 My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia.
 
-## Github Stats
-
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99)
-
 ## Current Activity
 
 <!-- - 🔭 I’m currently working as Freelancer -->
@@ -16,6 +12,10 @@ My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia.
 
 - 📫 How to reach me **rafliazz679@gmail.com**
 
-## Wakatime
+## Status
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99)
 
 [![rsurya99's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rsurya99&theme=tokyonight&layout=compact)](https://wakatime.com/@rsurya99)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RSurya99&theme=tokyonight)](https://git.io/streak-stats)
