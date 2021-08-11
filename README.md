@@ -4,13 +4,13 @@ My Name is Rafli Surya Pratama, 17. I'm From Bandung, Indonesia.
 
 ## Current Activity
 
-<!-- - 🔭 I’m currently working as Freelancer -->
+- 🔭 I’m currently working as Freelancer
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel** and **Javascript**
 
 - 💬 Ask me about anything, I will help you as best as I can
 
-- 📫 How to reach me **suryarafli679@gmail.com**
+- 📫 How to reach me **rafliazz679@gmail.com**
 
 <!-- ## Status -->
 
