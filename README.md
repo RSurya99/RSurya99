@@ -12,7 +12,11 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 
 - 📫 How to reach me **rafli.rfsp@gmail.com**
 
-## Mainly Use
+## My Github Stats
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99)
+
+## My Mainly Use
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +26,8 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## My Socials
+
+<!-- ## My Socials
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
@@ -31,8 +36,5 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 
 ## Problem Solving
 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya/) -->
 
-## Status
-
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99)
