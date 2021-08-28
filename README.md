@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Rafli Surya Pratama, I'm a fullstack developer from Bandung, Indonesia.
+My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, Indonesia.
 
 ## Current Activity
 
