@@ -29,7 +29,7 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
-## My Competitive Programming Account
+## Problem Solving
 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya/)
 
