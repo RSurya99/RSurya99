@@ -6,7 +6,7 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 
 - 🔭 I’m currently working in my personal project (it's a private repo so you can't see it)
 
-- 🌱 I’m currently learning **Laravel** and **Vue js**
+- 🌱 I’m currently learning **Vue js**
 
 - 💬 Ask me about anything, I will help you as best as I can
 
@@ -15,6 +15,13 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 ## My Github Stats
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99)
+
+## My Socials
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/438594052514906112/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=085156894623&logoColor=white)](https://t.me/Rsurya99)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 ## My Mainly Use
 
@@ -26,15 +33,7 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
-<!-- ## My Socials
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-
-## Problem Solving
+<!-- ## Problem Solving Skill
 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya/) -->
 
