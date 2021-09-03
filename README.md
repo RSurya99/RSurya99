@@ -4,7 +4,7 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 
 ## Current Activity
 
-- 🔭 I’m currently working in my personal project (it's a private repo so you can't see it)
+- 🔭 I’m currently working in personal project (it's a private repo so you can't see it)
 
 - 🌱 I’m currently learning **Vue js**
 
@@ -20,8 +20,8 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/438594052514906112/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=085156894623&logoColor=white)](https://t.me/Rsurya99)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RSurya99)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rsurya99/)
 
 ## My Mainly Use
 
