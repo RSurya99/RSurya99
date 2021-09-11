@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-My Name is Rafli Surya Pratama, 17 y.o, I'm a fullstack developer from Bandung, Indonesia.
+My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently studying at STMIK "AMIKBANDUNG".
 
 ## Current Activity
 
-- 🔭 I’m currently working in personal project (it's a private repo so you can't see it)
+- 🔭 I’m currently working on my personal project (it's a private repo so you can't see it).
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **Vue js**.
 
-- 💬 Ask me about anything, I will help you as best as I can
+- 💬 Ask me about anything, I will help you as best as I can.
 
-- 📫 How to reach me **rafli.rfsp@gmail.com**
+- 📫 How to reach me **rafli.rfsp@gmail.com**.
 
 ## My Github Stats
 
