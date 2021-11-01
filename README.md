@@ -2,8 +2,6 @@
 
 My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently studying at STMIK "AMIKBANDUNG".
 
-## Current Activity
-
 - 🔭 I’m currently working as a freelancer and part time programming teacher.
 
 - 🌱 I’m currently learning **Laravel**, **Vue js**, and **Node js**.
@@ -12,7 +10,7 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently s
 
 - 📫 How to reach me **rafli.rfsp@gmail.com**.
 
-<!-- ## Recent Activity -->
+## Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#21](https://github.com/osu-datenshi/website-docs/pull/21) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
@@ -21,7 +19,6 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently s
 4. ❗️ Closed issue [#1](https://github.com/RSurya99/ckeditor-tailwind-reset/issues/1) in [RSurya99/ckeditor-tailwind-reset](https://github.com/RSurya99/ckeditor-tailwind-reset)
 5. ❗️ Opened issue [#1](https://github.com/RSurya99/ckeditor-tailwind-reset/issues/1) in [RSurya99/ckeditor-tailwind-reset](https://github.com/RSurya99/ckeditor-tailwind-reset)
 <!--END_SECTION:activity-->
-
 
 
 ## My Github Stats
@@ -44,8 +41,4 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently s
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-<!-- ## Problem Solving Skill
-
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya/) -->
 
