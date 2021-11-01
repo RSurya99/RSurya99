@@ -12,6 +12,11 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently s
 
 - 📫 How to reach me **rafli.rfsp@gmail.com**.
 
+## Recent Activity
+<!--START_SECTION:activity-->
+
+
+
 ## My Github Stats
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99)
