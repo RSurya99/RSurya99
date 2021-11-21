@@ -2,7 +2,7 @@
 
 My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently studying at STMIK "AMIKBANDUNG".
 
-- 🔭 I’m currently working as a freelancer and part time programming teacher.
+<!-- - 🔭 I’m currently working as a freelancer. -->
 
 - 🌱 I’m currently learning **Laravel**, **Vue js**, and **Node js**.
 
