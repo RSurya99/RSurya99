@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently studying at STMIK "AMIKBANDUNG".
+My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently studying at STMIK "AMIKBANDUNG" and Jabar Coding Camp.
 
 <!-- - 🔭 I’m currently working as a freelancer. -->
 
@@ -21,9 +21,9 @@ My Name is Rafli Surya Pratama, 17 y.o, I'm from Bandung, Indonesia. Currently s
 <!--END_SECTION:activity-->
 
 
-## My Github Stats
+<!-- ## My Github Stats -->
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99)
+<!-- [![GithubStats](https://github-readme-stats.vercel.app/api?username=rsurya99&show_icons=true&theme=tokyonight)](https://github.com/rsurya99) -->
 
 ## My Socials
 
