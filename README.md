@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia. Currently studying at STMIK "AMIKBANDUNG" and Jabar Coding Camp.
+My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia. Currently studying at Jabar Coding Camp.
 
 <!-- - 🔭 I’m currently working as a freelancer. -->
 
