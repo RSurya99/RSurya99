@@ -13,8 +13,8 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia. Currently s
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/hilmanski/freeStuffDev/pull/152) in [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)
-2. 💪 Opened PR [#20](https://github.com/osu-datenshi/website-docs/pull/20) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+1. 💪 Opened PR [#22](https://github.com/osu-datenshi/website-docs/pull/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+2. 💪 Opened PR [#152](https://github.com/hilmanski/freeStuffDev/pull/152) in [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)
 3. 🗣 Commented on [#1](https://github.com/RSurya99/ckeditor-tailwind-reset/issues/1) in [RSurya99/ckeditor-tailwind-reset](https://github.com/RSurya99/ckeditor-tailwind-reset)
 4. ❗️ Closed issue [#1](https://github.com/RSurya99/ckeditor-tailwind-reset/issues/1) in [RSurya99/ckeditor-tailwind-reset](https://github.com/RSurya99/ckeditor-tailwind-reset)
 5. ❗️ Opened issue [#1](https://github.com/RSurya99/ckeditor-tailwind-reset/issues/1) in [RSurya99/ckeditor-tailwind-reset](https://github.com/RSurya99/ckeditor-tailwind-reset)
