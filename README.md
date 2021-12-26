@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia. Currently s
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/osu-datenshi/website-docs/pull/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-2. 🗣 Commented on [#22](https://github.com/osu-datenshi/website-docs/issues/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+1. 💪 Opened PR [#126](https://github.com/uyitroa/osr2mp4-app/pull/126) in [uyitroa/osr2mp4-app](https://github.com/uyitroa/osr2mp4-app)
+2. ❌ Closed PR [#22](https://github.com/osu-datenshi/website-docs/pull/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
 3. 🗣 Commented on [#22](https://github.com/osu-datenshi/website-docs/issues/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-4. 💪 Opened PR [#22](https://github.com/osu-datenshi/website-docs/pull/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-5. 💪 Opened PR [#152](https://github.com/hilmanski/freeStuffDev/pull/152) in [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)
+4. 🗣 Commented on [#22](https://github.com/osu-datenshi/website-docs/issues/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+5. 💪 Opened PR [#22](https://github.com/osu-datenshi/website-docs/pull/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
 <!--END_SECTION:activity-->
 
 
