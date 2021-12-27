@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia. Currently s
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/2) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
-2. 💪 Opened PR [#2](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/2) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
-3. 💪 Opened PR [#126](https://github.com/uyitroa/osr2mp4-app/pull/126) in [uyitroa/osr2mp4-app](https://github.com/uyitroa/osr2mp4-app)
-4. ❌ Closed PR [#22](https://github.com/osu-datenshi/website-docs/pull/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-5. 🗣 Commented on [#22](https://github.com/osu-datenshi/website-docs/issues/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+1. 💪 Opened PR [#6](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/6) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
+2. ❌ Closed PR [#2](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/2) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
+3. 💪 Opened PR [#2](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/2) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
+4. 💪 Opened PR [#126](https://github.com/uyitroa/osr2mp4-app/pull/126) in [uyitroa/osr2mp4-app](https://github.com/uyitroa/osr2mp4-app)
+5. ❌ Closed PR [#22](https://github.com/osu-datenshi/website-docs/pull/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
 <!--END_SECTION:activity-->
 
 
