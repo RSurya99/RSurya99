@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#673](https://github.com/mengxiong10/vue2-datepicker/issues/673) in [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker)
-2. 💪 Opened PR [#5](https://github.com/JCC-Intensive-Phase/belajar-typescript-2/pull/5) in [JCC-Intensive-Phase/belajar-typescript-2](https://github.com/JCC-Intensive-Phase/belajar-typescript-2)
-3. 💪 Opened PR [#6](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/6) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
-4. ❌ Closed PR [#2](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/2) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
-5. 💪 Opened PR [#2](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/2) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
+1. 🎉 Merged PR [#1](https://github.com/RSurya99/indiedu-vue/pull/1) in [RSurya99/indiedu-vue](https://github.com/RSurya99/indiedu-vue)
+2. ❗️ Opened issue [#673](https://github.com/mengxiong10/vue2-datepicker/issues/673) in [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker)
+3. 💪 Opened PR [#5](https://github.com/JCC-Intensive-Phase/belajar-typescript-2/pull/5) in [JCC-Intensive-Phase/belajar-typescript-2](https://github.com/JCC-Intensive-Phase/belajar-typescript-2)
+4. 💪 Opened PR [#6](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/6) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
+5. ❌ Closed PR [#2](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/2) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
 <!--END_SECTION:activity-->
 
 
