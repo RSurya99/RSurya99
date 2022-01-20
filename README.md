@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/zenika-open-source/promote-open-source-project/pull/117) in [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project)
-2. 🎉 Merged PR [#1](https://github.com/RSurya99/indiedu-vue/pull/1) in [RSurya99/indiedu-vue](https://github.com/RSurya99/indiedu-vue)
-3. ❗️ Opened issue [#673](https://github.com/mengxiong10/vue2-datepicker/issues/673) in [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker)
-4. 💪 Opened PR [#5](https://github.com/JCC-Intensive-Phase/belajar-typescript-2/pull/5) in [JCC-Intensive-Phase/belajar-typescript-2](https://github.com/JCC-Intensive-Phase/belajar-typescript-2)
-5. 💪 Opened PR [#6](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1/pull/6) in [JCC-Intensive-Phase/Belajar-Typescript-1](https://github.com/JCC-Intensive-Phase/Belajar-Typescript-1)
+1. 💪 Opened PR [#3](https://github.com/ismaelalwi66/indiedu_backend/pull/3) in [ismaelalwi66/indiedu_backend](https://github.com/ismaelalwi66/indiedu_backend)
+2. 💪 Opened PR [#117](https://github.com/zenika-open-source/promote-open-source-project/pull/117) in [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project)
+3. 🎉 Merged PR [#1](https://github.com/RSurya99/indiedu-vue/pull/1) in [RSurya99/indiedu-vue](https://github.com/RSurya99/indiedu-vue)
+4. ❗️ Opened issue [#673](https://github.com/mengxiong10/vue2-datepicker/issues/673) in [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker)
+5. 💪 Opened PR [#5](https://github.com/JCC-Intensive-Phase/belajar-typescript-2/pull/5) in [JCC-Intensive-Phase/belajar-typescript-2](https://github.com/JCC-Intensive-Phase/belajar-typescript-2)
 <!--END_SECTION:activity-->
 
 
