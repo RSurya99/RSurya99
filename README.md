@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RSurya99/nefa/pull/1) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-2. ❗️ Opened issue [#275](https://github.com/robcresswell/vue-material-design-icons/issues/275) in [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons)
-3. 💪 Opened PR [#3](https://github.com/ismaelalwi66/indiedu_backend/pull/3) in [ismaelalwi66/indiedu_backend](https://github.com/ismaelalwi66/indiedu_backend)
-4. 💪 Opened PR [#117](https://github.com/zenika-open-source/promote-open-source-project/pull/117) in [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project)
-5. 🎉 Merged PR [#1](https://github.com/RSurya99/indiedu-vue/pull/1) in [RSurya99/indiedu-vue](https://github.com/RSurya99/indiedu-vue)
+1. 💪 Opened PR [#301](https://github.com/vuejs-id/docs-next/pull/301) in [vuejs-id/docs-next](https://github.com/vuejs-id/docs-next)
+2. 🎉 Merged PR [#1](https://github.com/RSurya99/nefa/pull/1) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+3. ❗️ Opened issue [#275](https://github.com/robcresswell/vue-material-design-icons/issues/275) in [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons)
+4. 💪 Opened PR [#3](https://github.com/ismaelalwi66/indiedu_backend/pull/3) in [ismaelalwi66/indiedu_backend](https://github.com/ismaelalwi66/indiedu_backend)
+5. 💪 Opened PR [#117](https://github.com/zenika-open-source/promote-open-source-project/pull/117) in [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project)
 <!--END_SECTION:activity-->
 
 
