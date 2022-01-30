@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/ismaelalwi66/indiedu_backend/pull/5) in [ismaelalwi66/indiedu_backend](https://github.com/ismaelalwi66/indiedu_backend)
-2. 🎉 Merged PR [#1](https://github.com/RSurya99/wargabantuwarga-nuxt/pull/1) in [RSurya99/wargabantuwarga-nuxt](https://github.com/RSurya99/wargabantuwarga-nuxt)
-3. 💪 Opened PR [#4](https://github.com/ismaelalwi66/indiedu_backend/pull/4) in [ismaelalwi66/indiedu_backend](https://github.com/ismaelalwi66/indiedu_backend)
-4. 💪 Opened PR [#301](https://github.com/vuejs-id/docs-next/pull/301) in [vuejs-id/docs-next](https://github.com/vuejs-id/docs-next)
-5. 🎉 Merged PR [#1](https://github.com/RSurya99/nefa/pull/1) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+1. 💪 Opened PR [#457](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id/pull/457) in [jabardigitalservice/pikobar-jabarprov-go-id](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id)
+2. 💪 Opened PR [#5](https://github.com/ismaelalwi66/indiedu_backend/pull/5) in [ismaelalwi66/indiedu_backend](https://github.com/ismaelalwi66/indiedu_backend)
+3. 🎉 Merged PR [#1](https://github.com/RSurya99/wargabantuwarga-nuxt/pull/1) in [RSurya99/wargabantuwarga-nuxt](https://github.com/RSurya99/wargabantuwarga-nuxt)
+4. 💪 Opened PR [#4](https://github.com/ismaelalwi66/indiedu_backend/pull/4) in [ismaelalwi66/indiedu_backend](https://github.com/ismaelalwi66/indiedu_backend)
+5. 💪 Opened PR [#301](https://github.com/vuejs-id/docs-next/pull/301) in [vuejs-id/docs-next](https://github.com/vuejs-id/docs-next)
 <!--END_SECTION:activity-->
 
 
