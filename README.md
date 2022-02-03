@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/RSurya99/nefa/pull/2) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-2. 💪 Opened PR [#2](https://github.com/RSurya99/nefa/pull/2) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-3. ❗️ Closed issue [#72](https://github.com/saintplay/vue-swatches/issues/72) in [saintplay/vue-swatches](https://github.com/saintplay/vue-swatches)
-4. ❗️ Opened issue [#72](https://github.com/saintplay/vue-swatches/issues/72) in [saintplay/vue-swatches](https://github.com/saintplay/vue-swatches)
-5. ❗️ Opened issue [#36](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/issues/36) in [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+1. 🎉 Merged PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+2. 💪 Opened PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+3. 🎉 Merged PR [#3](https://github.com/RSurya99/horizon/pull/3) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+4. 🎉 Merged PR [#2](https://github.com/RSurya99/horizon/pull/2) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+5. 💪 Opened PR [#3](https://github.com/RSurya99/horizon/pull/3) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
 <!--END_SECTION:activity-->
 
 
