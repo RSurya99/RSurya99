@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
-2. 💪 Opened PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
-3. 🎉 Merged PR [#3](https://github.com/RSurya99/horizon/pull/3) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
-4. 🎉 Merged PR [#2](https://github.com/RSurya99/horizon/pull/2) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
-5. 💪 Opened PR [#3](https://github.com/RSurya99/horizon/pull/3) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+1. ❗️ Opened issue [#1](https://github.com/openafg/nuxt-fullpage/issues/1) in [openafg/nuxt-fullpage](https://github.com/openafg/nuxt-fullpage)
+2. 🎉 Merged PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+3. 💪 Opened PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+4. 🎉 Merged PR [#3](https://github.com/RSurya99/horizon/pull/3) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+5. 🎉 Merged PR [#2](https://github.com/RSurya99/horizon/pull/2) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
 <!--END_SECTION:activity-->
 
 
