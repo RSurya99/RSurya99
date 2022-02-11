@@ -13,11 +13,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/RSurya99/horizon/pull/6) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
-2. ❌ Closed PR [#5](https://github.com/RSurya99/horizon/pull/5) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
-3. ❗️ Opened issue [#1](https://github.com/openafg/nuxt-fullpage/issues/1) in [openafg/nuxt-fullpage](https://github.com/openafg/nuxt-fullpage)
-4. 🎉 Merged PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
-5. 💪 Opened PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+1. ❗️ Opened issue [#1046](https://github.com/vuejs/pinia/issues/1046) in [vuejs/pinia](https://github.com/vuejs/pinia)
+2. 🎉 Merged PR [#6](https://github.com/RSurya99/horizon/pull/6) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+3. ❌ Closed PR [#5](https://github.com/RSurya99/horizon/pull/5) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+4. ❗️ Opened issue [#1](https://github.com/openafg/nuxt-fullpage/issues/1) in [openafg/nuxt-fullpage](https://github.com/openafg/nuxt-fullpage)
+5. 🎉 Merged PR [#4](https://github.com/RSurya99/horizon/pull/4) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
 <!--END_SECTION:activity-->
 
 
