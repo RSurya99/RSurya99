@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#41](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite/pull/41) in [jabardigitalservice/reservasi-commandcenter-microsite](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite)
-2. 💪 Opened PR [#371](https://github.com/jabardigitalservice/reservasi-frontend/pull/371) in [jabardigitalservice/reservasi-frontend](https://github.com/jabardigitalservice/reservasi-frontend)
-3. 💪 Opened PR [#39](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite/pull/39) in [jabardigitalservice/reservasi-commandcenter-microsite](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite)
-4. ❗️ Opened issue [#1046](https://github.com/vuejs/pinia/issues/1046) in [vuejs/pinia](https://github.com/vuejs/pinia)
-5. 🎉 Merged PR [#6](https://github.com/RSurya99/horizon/pull/6) in [RSurya99/horizon](https://github.com/RSurya99/horizon)
+1. 💪 Opened PR [#372](https://github.com/jabardigitalservice/reservasi-frontend/pull/372) in [jabardigitalservice/reservasi-frontend](https://github.com/jabardigitalservice/reservasi-frontend)
+2. 💪 Opened PR [#41](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite/pull/41) in [jabardigitalservice/reservasi-commandcenter-microsite](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite)
+3. 💪 Opened PR [#371](https://github.com/jabardigitalservice/reservasi-frontend/pull/371) in [jabardigitalservice/reservasi-frontend](https://github.com/jabardigitalservice/reservasi-frontend)
+4. 💪 Opened PR [#39](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite/pull/39) in [jabardigitalservice/reservasi-commandcenter-microsite](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite)
+5. ❗️ Opened issue [#1046](https://github.com/vuejs/pinia/issues/1046) in [vuejs/pinia](https://github.com/vuejs/pinia)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
