@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/RSurya99/vue3-vite-starter/pull/1) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
-2. ❗️ Opened issue [#57](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/57) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
-3. ❌ Closed PR [#41](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite/pull/41) in [jabardigitalservice/reservasi-commandcenter-microsite](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite)
-4. 💪 Opened PR [#372](https://github.com/jabardigitalservice/reservasi-frontend/pull/372) in [jabardigitalservice/reservasi-frontend](https://github.com/jabardigitalservice/reservasi-frontend)
-5. 💪 Opened PR [#41](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite/pull/41) in [jabardigitalservice/reservasi-commandcenter-microsite](https://github.com/jabardigitalservice/reservasi-commandcenter-microsite)
+1. 🎉 Merged PR [#2](https://github.com/RSurya99/vue3-vite-starter/pull/2) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+2. 💪 Opened PR [#2](https://github.com/RSurya99/vue3-vite-starter/pull/2) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+3. ❌ Closed PR [#1](https://github.com/RSurya99/vue3-vite-starter/pull/1) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+4. 💪 Opened PR [#1](https://github.com/RSurya99/vue3-vite-starter/pull/1) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+5. ❗️ Opened issue [#57](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/57) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
