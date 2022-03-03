@@ -4,7 +4,7 @@
 
 My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
-- 🔭 I’m currently working on [cetan-vue](https://github.com/RSurya99/cetan-vue).
+<!-- - 🔭 I’m currently working on . -->
 
 - 🌱 I’m currently learning **Vue JS**.
 
