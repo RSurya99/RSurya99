@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/RSurya99/cetan-vue/pull/1) in [RSurya99/cetan-vue](https://github.com/RSurya99/cetan-vue)
-2. 💪 Opened PR [#1](https://github.com/RSurya99/cetan-vue/pull/1) in [RSurya99/cetan-vue](https://github.com/RSurya99/cetan-vue)
-3. 🎉 Merged PR [#2](https://github.com/RSurya99/vue3-vite-starter/pull/2) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
-4. 💪 Opened PR [#2](https://github.com/RSurya99/vue3-vite-starter/pull/2) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
-5. ❌ Closed PR [#1](https://github.com/RSurya99/vue3-vite-starter/pull/1) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+1. ❗️ Opened issue [#58](https://github.com/netlify/actions/issues/58) in [netlify/actions](https://github.com/netlify/actions)
+2. 🎉 Merged PR [#1](https://github.com/RSurya99/cetan-vue/pull/1) in [RSurya99/cetan-vue](https://github.com/RSurya99/cetan-vue)
+3. 💪 Opened PR [#1](https://github.com/RSurya99/cetan-vue/pull/1) in [RSurya99/cetan-vue](https://github.com/RSurya99/cetan-vue)
+4. 🎉 Merged PR [#2](https://github.com/RSurya99/vue3-vite-starter/pull/2) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+5. 💪 Opened PR [#2](https://github.com/RSurya99/vue3-vite-starter/pull/2) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
