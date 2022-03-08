@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#57](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/57) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
-2. ❗️ Opened issue [#58](https://github.com/netlify/actions/issues/58) in [netlify/actions](https://github.com/netlify/actions)
-3. 🎉 Merged PR [#1](https://github.com/RSurya99/cetan-vue/pull/1) in [RSurya99/cetan-vue](https://github.com/RSurya99/cetan-vue)
-4. 💪 Opened PR [#1](https://github.com/RSurya99/cetan-vue/pull/1) in [RSurya99/cetan-vue](https://github.com/RSurya99/cetan-vue)
-5. 🎉 Merged PR [#2](https://github.com/RSurya99/vue3-vite-starter/pull/2) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+1. 🎉 Merged PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+2. 💪 Opened PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+3. 🗣 Commented on [#57](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/57) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
+4. ❗️ Opened issue [#58](https://github.com/netlify/actions/issues/58) in [netlify/actions](https://github.com/netlify/actions)
+5. 🎉 Merged PR [#1](https://github.com/RSurya99/cetan-vue/pull/1) in [RSurya99/cetan-vue](https://github.com/RSurya99/cetan-vue)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
