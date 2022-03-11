@@ -1,5 +1,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=Rafli%20Surya&description=A%20Passionate%20Developer&image=https://avatars.githubusercontent.com/u/73375663?v=4?v=4&backgroundColor=%23dbe7f0&instagram=rsurya99&linkedin=rsurya99&twitter=rsurya99&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3)
 
+![](https://komarev.com/ghpvc/?username=rsurya99) 
+
 ## Hi there 👋
 
 My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
