@@ -6,13 +6,13 @@
 
 My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
-<!-- - 🔭 I’m currently working on . -->
+- 🔭 I’m currently working on something big 👀
 
-- 🌱 I’m currently learning **Vue JS**.
+<!-- - 🌱 I’m currently learning **Vue JS**. -->
 
 - ⚡ I'm very excited to create open-source projects
 
-- 💕 I'm currently fall in love with VueJS and Typescript
+- 💕 I'm currently fall in love with **Vue JS** and **Nuxt JS**
 
 - 💬 Ask me about anything, I will help you as best as I can.
 
@@ -60,6 +60,6 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
     <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
-    <!-- <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40" /></a>
+<!--     <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40" /></a>
     <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40" /></a> -->
 </p>
