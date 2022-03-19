@@ -20,11 +20,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#275](https://github.com/robcresswell/vue-material-design-icons/issues/275) in [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons)
-2. 🎉 Merged PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
-3. 💪 Opened PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
-4. 🗣 Commented on [#57](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/57) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
-5. ❗️ Opened issue [#58](https://github.com/netlify/actions/issues/58) in [netlify/actions](https://github.com/netlify/actions)
+1. 🎉 Merged PR [#1](https://github.com/RSurya99/home-vmc/pull/1) in [RSurya99/home-vmc](https://github.com/RSurya99/home-vmc)
+2. 🗣 Commented on [#275](https://github.com/robcresswell/vue-material-design-icons/issues/275) in [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons)
+3. 🎉 Merged PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+4. 💪 Opened PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+5. 🗣 Commented on [#57](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/57) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
