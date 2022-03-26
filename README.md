@@ -20,11 +20,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/jabardigitalservice/bo-museum-gesat/pull/1) in [jabardigitalservice/bo-museum-gesat](https://github.com/jabardigitalservice/bo-museum-gesat)
-2. 🎉 Merged PR [#1](https://github.com/RSurya99/home-vmc/pull/1) in [RSurya99/home-vmc](https://github.com/RSurya99/home-vmc)
-3. 🗣 Commented on [#275](https://github.com/robcresswell/vue-material-design-icons/issues/275) in [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons)
-4. 🎉 Merged PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
-5. 💪 Opened PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
+1. 🎉 Merged PR [#1](https://github.com/RSurya99/rsurya.me/pull/1) in [RSurya99/rsurya.me](https://github.com/RSurya99/rsurya.me)
+2. 💪 Opened PR [#1](https://github.com/jabardigitalservice/bo-museum-gesat/pull/1) in [jabardigitalservice/bo-museum-gesat](https://github.com/jabardigitalservice/bo-museum-gesat)
+3. 🎉 Merged PR [#1](https://github.com/RSurya99/home-vmc/pull/1) in [RSurya99/home-vmc](https://github.com/RSurya99/home-vmc)
+4. 🗣 Commented on [#275](https://github.com/robcresswell/vue-material-design-icons/issues/275) in [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons)
+5. 🎉 Merged PR [#3](https://github.com/RSurya99/vue3-vite-starter/pull/3) in [RSurya99/vue3-vite-starter](https://github.com/RSurya99/vue3-vite-starter)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
