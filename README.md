@@ -20,11 +20,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/RSurya99/nefa/issues/3) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-2. 🎉 Merged PR [#1](https://github.com/RSurya99/rsurya.me/pull/1) in [RSurya99/rsurya.me](https://github.com/RSurya99/rsurya.me)
-3. 💪 Opened PR [#1](https://github.com/jabardigitalservice/bo-museum-gesat/pull/1) in [jabardigitalservice/bo-museum-gesat](https://github.com/jabardigitalservice/bo-museum-gesat)
-4. 🎉 Merged PR [#1](https://github.com/RSurya99/home-vmc/pull/1) in [RSurya99/home-vmc](https://github.com/RSurya99/home-vmc)
-5. 🗣 Commented on [#275](https://github.com/robcresswell/vue-material-design-icons/issues/275) in [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons)
+1. ❗️ Closed issue [#3](https://github.com/RSurya99/nefa/issues/3) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+2. 🗣 Commented on [#3](https://github.com/RSurya99/nefa/issues/3) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+3. 🎉 Merged PR [#1](https://github.com/RSurya99/rsurya.me/pull/1) in [RSurya99/rsurya.me](https://github.com/RSurya99/rsurya.me)
+4. 💪 Opened PR [#1](https://github.com/jabardigitalservice/bo-museum-gesat/pull/1) in [jabardigitalservice/bo-museum-gesat](https://github.com/jabardigitalservice/bo-museum-gesat)
+5. 🎉 Merged PR [#1](https://github.com/RSurya99/home-vmc/pull/1) in [RSurya99/home-vmc](https://github.com/RSurya99/home-vmc)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
