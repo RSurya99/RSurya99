@@ -6,9 +6,9 @@
 
 My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
-- 🔭 I’m currently working on something big 👀
+- 🔭 I’m currently working as a freelancer
 
-<!-- - 🌱 I’m currently learning **Vue JS**. -->
+- 🌱 I’m currently exploring more about **Vue JS**, **Typescript**, and **Testing**.
 
 - ⚡ I'm very excited to create open-source projects
 
