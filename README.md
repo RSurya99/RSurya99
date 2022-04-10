@@ -1,20 +1,18 @@
-![My card name](https://cardivo.vercel.app/api?name=Rafli%20Surya&description=A%20Passionate%20Developer&image=https://avatars.githubusercontent.com/u/73375663?v=4?v=4&backgroundColor=%23dbe7f0&instagram=rsurya99&linkedin=rsurya99&twitter=rsurya99&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3)
-
-![](https://komarev.com/ghpvc/?username=rsurya99) 
+![My card name](https://cardivo.vercel.app/api?name=Rafli%20Surya%20P&description=%20Software%20Engineer&image=https://avatars.githubusercontent.com/u/73375663?v=4?v=4&backgroundColor=%23dbe7f0&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3)
 
 ## Hi there 👋
 
 My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
-- 🔭 I’m currently working as a freelancer
+<!-- - 🔭 I’m currently working as a freelancer -->
 
-- 🌱 I’m currently exploring more about **Vue JS**, **Typescript**, and **Testing**.
+<!-- - 🌱 I’m currently exploring more about **Front End Frameworks**, **Typescript**, and **Testing**. -->
 
-- ⚡ I'm very excited to create open-source projects
+<!-- - ⚡ I'm very excited to create open-source projects -->
 
-- 💕 I'm currently fall in love with **Vue JS** and **Nuxt JS**
+<!-- - 💕 I'm currently fall in love with **Vue JS** and **Nuxt JS** -->
 
-- 💬 Ask me about anything, I will help you as best as I can.
+<!-- - 💬 Ask me about anything, I will help you as best as I can. -->
 
 ## Recent Activity
 
@@ -33,12 +31,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 ## Connect with me
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rsurya99)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafli-surya-pratama-606962220)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rsurya99)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rsurya99)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/438594052514906112/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rsurya99)
 
 ## Language and Tools
 
@@ -49,6 +46,7 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
     <a href="https://nuxtjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40" /></a>
     <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /></a>
     <a href="https://figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="figma" width="40" height="40" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="reactjs" width="40" height="40" /></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
     <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /></a>
     <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
@@ -60,6 +58,4 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
     <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
-<!--     <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40" /></a>
-    <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40" /></a> -->
 </p>
