@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#72](https://github.com/creotip/vue-particles/issues/72) in [creotip/vue-particles](https://github.com/creotip/vue-particles)
-2. ❌ Closed PR [#457](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id/pull/457) in [jabardigitalservice/pikobar-jabarprov-go-id](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id)
-3. ❗️ Closed issue [#3](https://github.com/RSurya99/nefa/issues/3) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-4. 🗣 Commented on [#3](https://github.com/RSurya99/nefa/issues/3) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-5. 🎉 Merged PR [#1](https://github.com/RSurya99/rsurya.me/pull/1) in [RSurya99/rsurya.me](https://github.com/RSurya99/rsurya.me)
+1. 🗣 Commented on [#96](https://github.com/tauri-apps/tauri-plugin-sql/issues/96) in [tauri-apps/tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql)
+2. ❗️ Opened issue [#96](https://github.com/tauri-apps/tauri-plugin-sql/issues/96) in [tauri-apps/tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql)
+3. ❗️ Closed issue [#72](https://github.com/creotip/vue-particles/issues/72) in [creotip/vue-particles](https://github.com/creotip/vue-particles)
+4. ❌ Closed PR [#457](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id/pull/457) in [jabardigitalservice/pikobar-jabarprov-go-id](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id)
+5. ❗️ Closed issue [#3](https://github.com/RSurya99/nefa/issues/3) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
