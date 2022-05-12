@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Rafli%20Surya%20P&description=%20Software%20Engineer&image=https://avatars.githubusercontent.com/u/73375663?v=4?v=4&backgroundColor=%23dbe7f0&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3)
+<!-- ![My card name](https://cardivo.vercel.app/api?name=Rafli%20Surya%20P&description=%20Software%20Engineer&image=https://avatars.githubusercontent.com/u/73375663?v=4?v=4&backgroundColor=%23dbe7f0&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3) -->
 
 ## Hi there 👋
 
