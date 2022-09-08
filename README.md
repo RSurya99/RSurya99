@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
-2. 🗣 Commented on [#339](https://github.com/makenotion/notion-sdk-js/issues/339) in [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)
-3. ❗️ Opened issue [#339](https://github.com/makenotion/notion-sdk-js/issues/339) in [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)
-4. 🎉 Merged PR [#7](https://github.com/RSurya99/nefa/pull/7) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-5. 🎉 Merged PR [#6](https://github.com/RSurya99/nefa/pull/6) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+1. 🗣 Commented on [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
+2. ❗️ Opened issue [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
+3. 🗣 Commented on [#339](https://github.com/makenotion/notion-sdk-js/issues/339) in [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)
+4. ❗️ Opened issue [#339](https://github.com/makenotion/notion-sdk-js/issues/339) in [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)
+5. 🎉 Merged PR [#7](https://github.com/RSurya99/nefa/pull/7) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
