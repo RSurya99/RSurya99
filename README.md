@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/FathRa/Ujikom/pull/1) in [FathRa/Ujikom](https://github.com/FathRa/Ujikom)
-2. ❗️ Closed issue [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
-3. 🗣 Commented on [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
+1. 🎉 Merged PR [#8](https://github.com/RSurya99/nefa/pull/8) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+2. 💪 Opened PR [#1](https://github.com/FathRa/Ujikom/pull/1) in [FathRa/Ujikom](https://github.com/FathRa/Ujikom)
+3. ❗️ Closed issue [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
 4. 🗣 Commented on [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
-5. ❗️ Opened issue [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
+5. 🗣 Commented on [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
