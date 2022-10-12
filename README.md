@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/RSurya99/nefa/pull/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-2. 🗣 Commented on [#9](https://github.com/RSurya99/nefa/issues/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-3. 🎉 Merged PR [#8](https://github.com/RSurya99/nefa/pull/8) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-4. 💪 Opened PR [#1](https://github.com/FathRa/Ujikom/pull/1) in [FathRa/Ujikom](https://github.com/FathRa/Ujikom)
-5. ❗️ Closed issue [#36](https://github.com/BbayuGt/Trakteer.js/issues/36) in [BbayuGt/Trakteer.js](https://github.com/BbayuGt/Trakteer.js)
+1. 🎉 Merged PR [#1](https://github.com/RSurya99/dotfiles/pull/1) in [RSurya99/dotfiles](https://github.com/RSurya99/dotfiles)
+2. 🎉 Merged PR [#9](https://github.com/RSurya99/nefa/pull/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+3. 🗣 Commented on [#9](https://github.com/RSurya99/nefa/issues/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+4. 🎉 Merged PR [#8](https://github.com/RSurya99/nefa/pull/8) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+5. 💪 Opened PR [#1](https://github.com/FathRa/Ujikom/pull/1) in [FathRa/Ujikom](https://github.com/FathRa/Ujikom)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
