@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/hannnkusa/uts-restoran-2019110063/pull/2) in [hannnkusa/uts-restoran-2019110063](https://github.com/hannnkusa/uts-restoran-2019110063)
-2. 🎉 Merged PR [#1](https://github.com/RSurya99/dotfiles/pull/1) in [RSurya99/dotfiles](https://github.com/RSurya99/dotfiles)
-3. 🎉 Merged PR [#9](https://github.com/RSurya99/nefa/pull/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-4. 🗣 Commented on [#9](https://github.com/RSurya99/nefa/issues/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-5. 🎉 Merged PR [#8](https://github.com/RSurya99/nefa/pull/8) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+1. 💪 Opened PR [#2](https://github.com/abdurahmanfz/wamee/pull/2) in [abdurahmanfz/wamee](https://github.com/abdurahmanfz/wamee)
+2. 💪 Opened PR [#2](https://github.com/hannnkusa/uts-restoran-2019110063/pull/2) in [hannnkusa/uts-restoran-2019110063](https://github.com/hannnkusa/uts-restoran-2019110063)
+3. 🎉 Merged PR [#1](https://github.com/RSurya99/dotfiles/pull/1) in [RSurya99/dotfiles](https://github.com/RSurya99/dotfiles)
+4. 🎉 Merged PR [#9](https://github.com/RSurya99/nefa/pull/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+5. 🗣 Commented on [#9](https://github.com/RSurya99/nefa/issues/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
