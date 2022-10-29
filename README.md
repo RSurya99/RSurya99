@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#17](https://github.com/naneps/ID-card-generator/pull/17) in [naneps/ID-card-generator](https://github.com/naneps/ID-card-generator)
-2. 💪 Opened PR [#2](https://github.com/abdurahmanfz/wamee/pull/2) in [abdurahmanfz/wamee](https://github.com/abdurahmanfz/wamee)
-3. 💪 Opened PR [#2](https://github.com/hannnkusa/uts-restoran-2019110063/pull/2) in [hannnkusa/uts-restoran-2019110063](https://github.com/hannnkusa/uts-restoran-2019110063)
-4. 🎉 Merged PR [#1](https://github.com/RSurya99/dotfiles/pull/1) in [RSurya99/dotfiles](https://github.com/RSurya99/dotfiles)
-5. 🎉 Merged PR [#9](https://github.com/RSurya99/nefa/pull/9) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+1. 🎉 Merged PR [#10](https://github.com/RSurya99/nefa/pull/10) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
+2. 💪 Opened PR [#17](https://github.com/naneps/ID-card-generator/pull/17) in [naneps/ID-card-generator](https://github.com/naneps/ID-card-generator)
+3. 💪 Opened PR [#2](https://github.com/abdurahmanfz/wamee/pull/2) in [abdurahmanfz/wamee](https://github.com/abdurahmanfz/wamee)
+4. 💪 Opened PR [#2](https://github.com/hannnkusa/uts-restoran-2019110063/pull/2) in [hannnkusa/uts-restoran-2019110063](https://github.com/hannnkusa/uts-restoran-2019110063)
+5. 🎉 Merged PR [#1](https://github.com/RSurya99/dotfiles/pull/1) in [RSurya99/dotfiles](https://github.com/RSurya99/dotfiles)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
