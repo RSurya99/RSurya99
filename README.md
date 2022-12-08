@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
+My Name is Rafli Surya Pratama, 19 y.o, I'm from Bandung, Indonesia.
 
 <!-- - 🔭 I’m currently working as a freelancer -->
 
