@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 19 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
-2. 💪 Opened PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
-3. 🎉 Merged PR [#1](https://github.com/RSurya99/silient-dashboard/pull/1) in [RSurya99/silient-dashboard](https://github.com/RSurya99/silient-dashboard)
-4. 🎉 Merged PR [#10](https://github.com/RSurya99/nefa/pull/10) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
-5. 💪 Opened PR [#17](https://github.com/naneps/ID-card-generator/pull/17) in [naneps/ID-card-generator](https://github.com/naneps/ID-card-generator)
+1. 🎉 Merged PR [#2](https://github.com/RSurya99/trippi/pull/2) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
+2. 🎉 Merged PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
+3. 💪 Opened PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
+4. 🎉 Merged PR [#1](https://github.com/RSurya99/silient-dashboard/pull/1) in [RSurya99/silient-dashboard](https://github.com/RSurya99/silient-dashboard)
+5. 🎉 Merged PR [#10](https://github.com/RSurya99/nefa/pull/10) in [RSurya99/nefa](https://github.com/RSurya99/nefa)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
