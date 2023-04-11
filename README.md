@@ -18,11 +18,11 @@ My Name is Rafli Surya Pratama, 19 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#202](https://github.com/tauri-apps/plugins-workspace/issues/202) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
-2. 🎉 Merged PR [#2](https://github.com/RSurya99/trippi/pull/2) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
-3. 🎉 Merged PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
-4. 💪 Opened PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
-5. 🎉 Merged PR [#1](https://github.com/RSurya99/silient-dashboard/pull/1) in [RSurya99/silient-dashboard](https://github.com/RSurya99/silient-dashboard)
+1. 🎉 Merged PR [#1](https://github.com/RSurya99/rsurya.works/pull/1) in [RSurya99/rsurya.works](https://github.com/RSurya99/rsurya.works)
+2. ❗️ Opened issue [#202](https://github.com/tauri-apps/plugins-workspace/issues/202) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
+3. 🎉 Merged PR [#2](https://github.com/RSurya99/trippi/pull/2) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
+4. 🎉 Merged PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
+5. 💪 Opened PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
 <!--END_SECTION:activity-->
 
 ## My Github Stats
