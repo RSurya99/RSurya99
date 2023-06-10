@@ -18,9 +18,9 @@ My Name is Rafli Surya Pratama, 19 y.o, I'm from Bandung, Indonesia.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/RSurya99/rsurya.works/pull/2) in [RSurya99/rsurya.works](https://github.com/RSurya99/rsurya.works)
-2. 🎉 Merged PR [#1](https://github.com/RSurya99/rsurya.works/pull/1) in [RSurya99/rsurya.works](https://github.com/RSurya99/rsurya.works)
-3. 🎉 Merged PR [#2](https://github.com/RSurya99/trippi/pull/2) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
+1. 🎉 Merged PR [#3](https://github.com/RSurya99/rsurya.works/pull/3) in [RSurya99/rsurya.works](https://github.com/RSurya99/rsurya.works)
+2. 🎉 Merged PR [#2](https://github.com/RSurya99/rsurya.works/pull/2) in [RSurya99/rsurya.works](https://github.com/RSurya99/rsurya.works)
+3. 🎉 Merged PR [#1](https://github.com/RSurya99/rsurya.works/pull/1) in [RSurya99/rsurya.works](https://github.com/RSurya99/rsurya.works)
 4. 🎉 Merged PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
 5. 💪 Opened PR [#1](https://github.com/RSurya99/trippi/pull/1) in [RSurya99/trippi](https://github.com/RSurya99/trippi)
 <!--END_SECTION:activity-->
